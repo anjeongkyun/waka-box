@@ -4,12 +4,12 @@
   <p align="center">Update a pinned gist to contain your weekly WakaTime stats</p>
 </p>
 
----
+--- 
 
 > 📌✨ For more pinned-gist projects like this one, check out: https://github.com/matchai/awesome-pinned-gists
 
 ## Setup
-
+  
 ### Prep work
 
 1. Create a new public GitHub Gist (https://gist.github.com/)
